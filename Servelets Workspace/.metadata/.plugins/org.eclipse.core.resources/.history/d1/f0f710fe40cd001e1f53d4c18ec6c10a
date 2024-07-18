@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Multiplication of two numbers</h1>
+<form action="div">
+<input type="number" placeholder="Enter number 1" name="n1"><br>
+<br>
+<input type="number" placeholder="Enter number 2" name="n2"><br>
+<br>
+<input type="submit" value="Divide">
+
+</form>
+</body>
+</html>

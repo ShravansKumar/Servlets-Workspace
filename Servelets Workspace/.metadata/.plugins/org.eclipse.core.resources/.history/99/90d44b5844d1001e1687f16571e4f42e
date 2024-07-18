@@ -1,0 +1,26 @@
+package com.jsp.carmanagementsytem;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+class AddCarServlet extends HttpServlet{
+	
+	
+	@Override
+	
+	public void doPost(HttpServletRequest req,HttpServletResponse res) {
+		
+		
+		int CarId=Integer.parseInt(req.getParameter("CarId"));
+		String CarModel=req.getParameter("CarModel");
+		String CarBrand=req.getParameter("CarBrand");
+		int CarPrice=Integer.parseInt(req.getParameter("CarPrice"));
+		
+
+	
+	
+	
+}
+
+

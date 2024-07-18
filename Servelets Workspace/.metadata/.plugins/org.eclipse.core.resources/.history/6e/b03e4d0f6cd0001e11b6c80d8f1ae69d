@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Servlets_Jspdemo">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="Servlets_Jspdemo"/>
+        <property name="java-output-path" value="/Servlets_Jspdemo/target/classes"/>
+    </wb-module>
+</project-modules>

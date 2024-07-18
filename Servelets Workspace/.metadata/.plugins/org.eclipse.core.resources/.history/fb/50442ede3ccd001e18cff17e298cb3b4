@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Addition of two numbers</h1>
+<form action="mul">
+<input type="number" placeholder="Enter number 1" name="n1"><br>
+<br>
+<input type="number" placeholder="Enter number 2" name="n2"><br>
+<br>
+<input type="submit" value="Add">
+
+</form>
+
+</body>
+</html>
